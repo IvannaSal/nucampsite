@@ -63,3 +63,19 @@ footer {
     right: 0;
     bottom: 0;
 }
+
+
+#reserveModal {
+    .modal-header {
+        background: $color-teal;
+        color: white;
+    }
+}
+
+#loginModal {
+    .modal-header {
+        background: $color-mid;
+        color: white;
+    }
+}
+
