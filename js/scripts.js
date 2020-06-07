@@ -13,8 +13,7 @@ $(function() {
         }
     });
 
-
-// Reserve Button
+// Reserve Modal Button
     $('#reserveButton').click(function() {
         $('#reserveModal').modal('show');
     });
